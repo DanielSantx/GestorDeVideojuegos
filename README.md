@@ -1,2 +1,4 @@
 # GestorDeVideojuegos
-Este es un repositorio donde subiremos la información de desarrollo de un Gestor de Videojuegos en la clase de Entornos de Desarrollo
+Miembros del proyecto: Miguel Castilla Gallego, Manuel Cerezo Galisteo, Alejandro Córdoba Pérez, Daniel Santaflorentina Picchi, Daniel Ronda Morales.
+
+
